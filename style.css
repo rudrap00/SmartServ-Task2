@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+}
+.left {
+    border: 5px solid lightgray;
+    width: 50%;
+    
+    
+}
+.right {
+    border: 5px solid lightgray;
+    padding: 10px;
+    width: 50%;
+}
